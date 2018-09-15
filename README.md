@@ -1,0 +1,2 @@
+# hello
+.net core playground
